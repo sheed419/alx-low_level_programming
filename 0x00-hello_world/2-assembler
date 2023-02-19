@@ -1,2 +1,2 @@
 #!/bin/bash
-C_FILE=$CFILE;S_FILE=${C_FILE%.c}.s;gcc -S C_FILE -o S_FILE
+C_FILE=$CFILE;S_FILE=${C_FILE%.c}.s;gcc -S $C_FILE -o $S_FILE
