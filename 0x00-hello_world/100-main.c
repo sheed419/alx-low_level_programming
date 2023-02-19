@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-printf("Assembly intel");
+printf("Holberton school");
 return (0);
 }
