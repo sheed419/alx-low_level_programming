@@ -1,0 +1,2 @@
+#!/bin/bash
+C_FILE=$CFILE;O_FILE=${C_FILE%.c}.o;gcc -c $C_FILE -o $O_FILE
