@@ -4,3 +4,4 @@
 3-name: compiles a C file and creates an executable called cisfun
 4-puts: uses puts to give an output instead of printf
 5-printf.c: uses printf to give an output instead of puts
+6-size.c: prints out the various sizes of datatypes
