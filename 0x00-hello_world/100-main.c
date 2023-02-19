@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-printf("Assembly intel")
+printf("Assembly intel");
 return (0);
 }
