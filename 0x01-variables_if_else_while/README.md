@@ -4,3 +4,4 @@
 3-print_alphabets.c: prints lowercase and then uppercase alphabets using putchar function
 4-print_alphabt.c: prints lowercase alphabets without รรรe and q using only putchar function
 5-print_numbers.c: prints single digit numbers of base 10
+6-print_numberz.c: prints all single digit numbers of base 10 followed by a new line
