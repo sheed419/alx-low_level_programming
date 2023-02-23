@@ -2,3 +2,4 @@
 1-last_digit.c: prints the last digit of a random number generation
 2-print_alphabet: prints the alphabet in lower case using only the putchar function
 3-print_alphabets.c: prints lowercase and then uppercase alphabets using putchar function
+4-print_alphabt.c: prints lowercase alphabets without รรรe and q using only putchar function
